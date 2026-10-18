@@ -147,7 +147,7 @@ specialists:
         x: https://x.com/LeonzoUlyana
       preview: leonzo/preview.jpg
     - name: nezunayu
-      status: unknown
+      status: open
       logo: nezunayu/logo.jpg
       works:
         - type: art
